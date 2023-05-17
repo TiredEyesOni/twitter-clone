@@ -1,28 +1,26 @@
-# Create T3 App
+<p align="center">
+  Twitter Clone
+</p>
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+# About this project
 
-## What's next? How do I make an app with this?
+This is a twitter clone that allows users to create an account, make tweets, like them and follow each other.
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+<a href="https://twitter-clone-sable-seven.vercel.app/">Live Demo</a>
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+## Build with:
+- T3 Stack (Next.js, TypeScript, tRPC, Prisma, Tailwind CSS, NextAuth.js)
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+# Screenshots
 
-## Learn More
+# Home page / Recent tweets tab 
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
+![image](https://github.com/TiredEyesOni/twitter-clone/assets/49983529/08b164bf-bb2d-46fb-a07d-45cd04b2b536)
 
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
+# Home page / Following tweets tab
 
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
+![image](https://github.com/TiredEyesOni/twitter-clone/assets/49983529/b4e069de-c8df-4edf-a7c2-9c40313be834)
 
-## How do I deploy this?
+# Profile Page
 
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+![image](https://github.com/TiredEyesOni/twitter-clone/assets/49983529/a4a5f272-4f3a-4426-be08-136b49d95878)
