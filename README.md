@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   Twitter Clone
-</p>
+</h1>
 
 # About this project
 
